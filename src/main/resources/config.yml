@@ -1,0 +1,12 @@
+##########################################################################
+#
+# AkatroxTempBlocks development by benakatrox
+# discord.gg/akatrox - www.akatrox.com.tr
+#
+##########################################################################
+
+# Type the name of the block followed by the time to delete (in seconds) an example is given below.
+
+STONE: 60
+DIRT: 120
+DIAMOND_BLOCK: 300
