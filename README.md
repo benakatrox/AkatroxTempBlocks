@@ -7,5 +7,7 @@
 ✅ You can set the block and duration as shown in the config below and use it this way.
 
 STONE: 60
+
 DIRT: 120
+
 DIAMOND_BLOCK: 300
